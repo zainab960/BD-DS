@@ -1,5 +1,5 @@
-**Auteur :** [Zainab Merzouk]
-**Date :** [27/09/2026]
+**Auteur :** Zainab Merzouk
+**Date :** 27/09/2026
 # Pourquoi le taux de chômage augmente-t-il sans cesse au Maroc ?
 
 **Analyse basée sur deux jeux de données officiels : HCP (Haut-Commissariat au Plan) et Banque Mondiale (World Bank Open Data, estimation modélisée OIT)**
